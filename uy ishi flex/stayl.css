@@ -1,0 +1,60 @@
+.main{
+    height: 733px;
+    background-color: rgb(64, 28, 85);
+    border: 1px solid red;
+    border-radius: 40px;
+    margin: 0 auto;
+}
+.menu{
+    display: flex;
+    padding: 15px;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+.menucha{
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    border: 2px solid;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.rasm{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+    
+}
+.blac{
+    width: 250px;
+    height: 110px;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+    justify-content: center;
+}
+
+.boxcha{
+    border: 25px solid red;
+    width: 500px;
+    height: 100px;
+    background-color: greenyellow;
+    border-radius: 28px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 60px;
+}
+.BOXES{
+    display: flex;
+    justify-content: center;
+}
+
